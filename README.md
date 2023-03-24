@@ -58,3 +58,7 @@ Once this is done you can then push the GitHub Repository Using the following co
 ```git push```
 
 You Should be able to see your changes to the Repository on GitHub
+
+# How to pip required packages
+
+```pip install -r requirements.txt```
