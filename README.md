@@ -30,7 +30,7 @@ You can check if you've inputted them correctly via `git config --global -l`
 
 With all that done the next step is to clone the repository to you computer using the following command:
 
-```git clone git@github.com/Innex42/AI-CW.git```
+```git clone https://git@github.com/Innex42/AI-CW.git```
 
 Once that has been completed you can see the repository ip3 in your folders by entering `ls` into the terminal
 
